@@ -39,8 +39,10 @@ Game.cookies = číslo
   }
 ```
 
-4. deklaruj další proměnnou, která bude obsahovat teplotu ze včera.
-5. přidej další podmínku, která porovná průměrnou teplotu za oba dva dny s jen dnešní teplotou. Vypiš alertem, jak to dopadlo (pokud je i není stejná).
+## Bonus!
+
+1. deklaruj další proměnnou, která bude obsahovat teplotu ze včera.
+2. přidej další podmínku, která porovná průměrnou teplotu za oba dva dny s jen dnešní teplotou. Vypiš alertem, jak to dopadlo (pokud je i není stejná).
 
 ---
 
