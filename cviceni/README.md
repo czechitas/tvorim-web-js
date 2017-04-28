@@ -65,3 +65,9 @@ jakJeDnes(34);
 Zobrazí:
 
 > Dnes je vedro!
+
+---
+
+# querySelector
+
+V souboru `skript.js` je neúplný kód. Nastav proměnnou `obrazek` tak, aby se zobrazilo veselé kǒtě.
