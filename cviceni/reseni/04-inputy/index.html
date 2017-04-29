@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Made with Thimble</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Inputy</h1>
+
+  <label>Město: <input type="text" id="mesto"></label><br>
+
+  <label>Teplota: <input type="number" id="teplota" min="-50" max="50"></label><br>
+
+  <br>
+
+  Panující podmínky:<br>
+  <label><input type="checkbox" id="slunicko"> sluníčko svítí</label><br>
+  <label><input type="checkbox" id="vitr"> vítr fouká</label><br>
+  <label><input type="checkbox" id="ptacci"> ptáčci zpívají</label><br>
+
+  <br>
+
+  <button id="tlacitko">Klik!</button>
+
+  <!--
+
+    Bonus 1:
+
+      <table>
+        <tr>
+          <td>
+            <label for="mesto">Město:</label>
+          </td>
+          <td>
+            <input type="text" id="mesto">
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label for="teplota">Teplota:</label>
+          </td>
+          <td>
+            <input type="number" id="teplota" min="-50" max="50">
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Panující podmínky:
+          </td>
+          <td>
+            <label><input type="checkbox" id="slunicko"> sluníčko svítí</label><br>
+            <label><input type="checkbox" id="vitr"> vítr fouká</label><br>
+            <label><input type="checkbox" id="ptacci"> ptáčci zpívají</label>
+          </td>
+        </tr>
+      </table>
+
+      <button id="tlacitko">Klik!</button>
+
+
+    Bonus 2:
+
+      <input type="text" id="mesto" maxlength="20">
+
+  -->
+
+  <script src="skript.js"></script>
+</body>
+</html>

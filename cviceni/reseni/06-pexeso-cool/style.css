@@ -1,0 +1,27 @@
+#pexeso td, .karticka, .karticka img {
+  padding: 0;
+  border: none;
+  width: 150px;
+  height: 150px;
+}
+
+.karticka {
+  display: block;
+  background-color: plum;
+}
+
+#pexeso.odstartovano .karticka img {
+  opacity: 0;
+}
+
+#pexeso.odstartovano .karticka.otocena img {
+  opacity: 1;
+}
+
+.karticka.nalezena {
+  display: none;
+}
+
+.hracka.hraje {
+  background-color: lime;
+}
