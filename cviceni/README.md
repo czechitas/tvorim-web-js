@@ -27,6 +27,8 @@ Game.cookies = číslo
 
 # Úkol na proměnné a if
 
+> Zadání: <https://thimbleprojects.org/jocellyn/261277/>
+
 1. deklaruj proměnnou teplota a definuj ji dle aktuální teploty v tvém rodném městě (nezapomeň, že proměnná může obsahovat pouze text nebo čísla, nemůžeš to kombinovat, kdybys např. chtěla přidat jednotky)
 2. napiš podmínku, která se podívá, jestli je teplota nižší než nula a pokud ano, pomocí `alert` vypíše hodnotu připravené proměnné mrazivo.
 3. rozšiř tuto podmínku o další případy, abys využila všechny předpřipravené proměnné. Využij 'else' větve, do které můžeš vnořit další podmínku. Koučové jistě poradí!
@@ -47,6 +49,8 @@ Game.cookies = číslo
 ---
 
 # Funkce
+
+> Zadání: <https://thimbleprojects.org/katemihalikova/261422>
 
 V souboru `skript.js` je prázdná funkce `jakJeDnes`. Když se funkce zavolá, měla by zobrazit `alert` s textem, který předáš v proměnné, například:
 
@@ -72,11 +76,16 @@ Zobrazí:
 
 # querySelector
 
+> Zadání: <https://thimbleprojects.org/katemihalikova/261423>
+
 V souboru `skript.js` je neúplný kód. Nastav proměnnou `obrazek` tak, aby se zobrazilo veselé kǒtě.
 
 ---
 
 # Inputy
+
+> Zadání: <https://thimbleprojects.org/katemihalikova/261406>  
+> Řešení: <https://thimbleprojects.org/katemihalikova/261409>
 
 Vyzkoušíme si nové HTML tagy :) Vytvoř jednoduchý formulář pro zadávání počasí:
 
@@ -98,6 +107,9 @@ Vyzkoušíme si nové HTML tagy :) Vytvoř jednoduchý formulář pro zadáván�
 
 # Události
 
+> Zadání: <https://thimbleprojects.org/katemihalikova/261407>  
+> Řešení: <https://thimbleprojects.org/katemihalikova/261410>
+
 Miniformulář z minulého cvičení si teď zkusíme napojit na události.
 
 1. vytvoř si proměnnou pro každý prvek formuláře a do každé proměnné ulož správný element pomocí `document.querySelector` a jejich id
@@ -117,6 +129,10 @@ Miniformulář z minulého cvičení si teď zkusíme napojit na události.
 ---
 
 # Projekt - Pexeso
+
+> Zadání: <https://thimbleprojects.org/katemihalikova/261408>  
+> Řešení: <https://thimbleprojects.org/katemihalikova/261411>  
+> Řešení s některými bonusy: <https://thimbleprojects.org/katemihalikova/261412>
 
 Nastal čas na největší cvičení dnešního dne, tvůj velký projekt :) Pexeso někdy hrála určitě každá z nás. Jenže jak na něj z pohledu programování?
 
